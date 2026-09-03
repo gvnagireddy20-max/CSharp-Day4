@@ -1,4 +1,6 @@
-﻿using System;
+﻿
+// Day 4 - Inheritance and Abstraction
+using System;
 using System.Collections.Generic;
 
 abstract class Shape
